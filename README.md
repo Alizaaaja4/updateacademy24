@@ -1,63 +1,36 @@
-## 📚 README: Curriculum Material Revision Information 2023
+# ✏️ Tutorial Edit Bersama di GitHub
 
-### 📖 Table of Contents
+## 📝 Langkah-Langkah
 
-1. 📌 Introduction
-2. 📚 Added Materials
-   - 🎨 UX/UI
-   - 🔧 Intro to Git & GitHub
-   - 📄 HTML References
-   - 🎨 CSS Updates
-   - 🌟 TailwindCSS
-   - 🚀 Deployment Platforms
-   - 🗄️ Database Design
-   - 🔄 PHP & MySQL Updates
-3. 📝 Learning Guide
-4. 📚 References
+1. **📧 Terima Undangan Kontributor**
+   - Terima undangan sebagai kontributor yang dikirimkan ke email atau akun GitHub Anda.
 
-### 1. 📌 Introduction
+2. **🚫 Jangan Dulu Fork**
+   - Jangan membuat fork repository.
 
-This document contains information about the curriculum material revision for the year 2023.
+3. **🔍 Pergi ke Repository Utama**
+   - Buka repository utama di akun GitHub Aliza.
 
-### 2. 📚 Added Materials
+4. **✏️ Edit di Repository Utama**
+   - Langsung edit di repository utama tanpa membuat fork.
 
-#### 🎨 UX/UI
+5. **📂 Pergi ke File/Folder yang Ingin Diedit**
+   - Buka file atau folder yang ingin Anda edit.
 
-Addition of materials on User Experience (UX) and User Interface (UI).
+6. **✏️ Klik Ikon Pensil**
+   - Klik ikon pensil di sebelah file yang ingin diedit.
 
-#### 🔧 Intro to Git & GitHub
+7. **🔄 Tambah/Hapus/Update Data**
+   - Lakukan perubahan seperti menambahkan data, menghapus, atau memperbarui konten di file .md tersebut.
 
-Basics of using Git and GitHub for version control and project collaboration.
+8. **💾 Commit Changes**
+   - Klik "Commit changes".
+   - Isi "Commit message" dengan deskripsi singkat perubahan.
+   - Isi "Extended description" dengan penjelasan lebih detail mengenai perubahan.
+   - Pilih "Commit directly to the main branch".
+   - Klik "Commit changes".
 
-#### 📄 HTML References
+9. **✅ Selesai**
+   - Proses edit selesai. Perubahan Anda telah disimpan di repository utama.
 
-New references and additional materials on HTML.
-
-#### 🎨 CSS Updates
-
-The latest CSS materials including Flexbox, Grid Layout, animations, and transformations.
-
-#### 🌟 TailwindCSS
-
-Using TailwindCSS for fast and responsive user interface development.
-
-#### 🚀 Deployment Platforms
-
-Introduction to deployment platforms such as Heroku, Vercel, and Netlify.
-
-#### 🗄️ Database Design
-
-Materials on database design, normalization, and creating entity-relationship diagrams (ERD).
-
-#### 🔄 PHP & MySQL Updates
-
-Updates on the latest features and optimization techniques in PHP and MySQL.
-
-### 3. 📝 Learning Guide
-
-Learning guide including video tutorials, articles, and practical exercises.
-
-### 4. 📚 References
-
-A list of references from trusted sources to deepen knowledge.
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7F3E&height=120&section=footer"/>
