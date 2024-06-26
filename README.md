@@ -2,6 +2,7 @@
 
 ## 📝 Langkah-Langkah
 
+
 1. **📧 Terima Undangan Kontributor**
    - Terima undangan sebagai kontributor yang dikirimkan ke email atau akun GitHub Anda.
 
