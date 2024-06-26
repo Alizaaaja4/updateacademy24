@@ -14,7 +14,6 @@
    - 🔄 PHP & MySQL Updates
 3. 📝 Learning Guide
 4. 📚 References
-5. 📬 Contact
 
 ### 1. 📌 Introduction
 
