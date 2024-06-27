@@ -30,10 +30,17 @@ Some key features of Vercel include:
 
 6. **Monitoring and Scaling**: Use the monitoring features in the Vercel dashboard to monitor your application's performance and scale it as needed.
 
-## References 📚
+## 🎥 References
+### 🔗 [Vercel](https://vercel.com)
+Explore Vercel—the optimal platform for deploying Next.js and other modern web applications. Dive into its seamless integration with Git, instant deployments, and global CDN for unparalleled performance.
+- **[HOW TO HOST AN HTML CSS JS WEBSITE ON VERCEL FOR FREE](https://youtu.be/Kjw6pZJmqck?si=U7zZutNzDJIKp_fm)**
+  
+    <a href="https://youtu.be/Kjw6pZJmqck?si=U7zZutNzDJIKp_fm"><img src="./assets/image-3.png" alt="Introduction" width="300"></a>
 
-- Official Site: [Vercel](https://vercel.com)
-- Learn More:
-  - [YouTube Tutorial 1](https://youtu.be/Kjw6pZJmqck?si=U7zZutNzDJIKp_fm)
-  - [YouTube Tutorial 2](https://youtu.be/EOs0vmPoqQ0?si=FO138_Un_APPrlvQ)
-  - [YouTube Tutorial 3](https://youtu.be/DJpKxFbY3mA?si=vNuLf47BNtdtGO-4)
+- **[How to Deploy/Host/Upload React JS on Vercel for Free](https://youtu.be/EOs0vmPoqQ0?si=FO138_Un_APPrlvQ)**
+  
+    <a href="https://youtu.be/EOs0vmPoqQ0?si=FO138_Un_APPrlvQ"><img src="./assets/image-4.png" alt="Introduction" width="300"></a>
+  
+- **[Next JS Indonesian Pages Router Tutorial : 22.Hosting Vercel](https://youtu.be/eYe4FBe5h_c?si=w-7-AHYvHEFVOjoG)**
+  
+    <a href="https://youtu.be/eYe4FBe5h_c?si=w-7-AHYvHEFVOjoG"><img src="./assets/image-5.png" alt="Introduction" width="300"></a>
