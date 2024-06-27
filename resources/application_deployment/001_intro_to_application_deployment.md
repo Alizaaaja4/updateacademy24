@@ -31,3 +31,10 @@ There are various platforms available for application deployment, ranging from f
 In this module, we will focus on deployment platforms such as GitHub Pages, Netlify, and Vercel, which are popular choices for modern web development projects.
 
 Let's explore each of these platforms to understand how to use them and the benefits they offer in application deployment.
+
+## 🎥 YouTube
+### Netlify Vs Vercel Vs GitHub Pages
+- **[Best NextJs Hosting Provider? Netlify Vs Vercel Vs GitHub Pages](https://youtu.be/Sb45vtqUXzU?si=6zE7hnKYzHvfQsR9)**
+  - Learn which platform offers the best features, performance, and ease of use for your web applications.
+  
+    <a href="https://youtu.be/Sb45vtqUXzU?si=6zE7hnKYzHvfQsR9"><img src="./assets/image.png" alt="Introduction" width="300"></a>
