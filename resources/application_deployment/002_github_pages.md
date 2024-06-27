@@ -30,7 +30,10 @@ To use GitHub Pages:
    
 6. GitHub Pages will automatically host your website at the available URL (typically `https://username.github.io/repository`).
 
-## 🔗 References
+## 🎥 References
+### 🔗 [GitHub Pages](https://pages.github.com)
+Explore GitHub Pages—a seamless way to host your websites directly from your GitHub repositories. Learn how to leverage its simplicity, reliability, and integration with Git for effortless web deployment.
+- **[Free Web Hosting with GitHub Pages](https://youtu.be/rgDDWhQe-ow?si=8OrQFVooNoGviE4n)**
+  
+    <a href="https://youtu.be/rgDDWhQe-ow?si=8OrQFVooNoGviE4n"><img src="./assets/image.png" alt="Introduction" width="300"></a>
 
-- Official Site: [GitHub Pages](https://pages.github.com)
-- Learn More: [YouTube Tutorial](https://youtu.be/rgDDWhQe-ow?si=nLrI9OVcX3rIIJ1t)
