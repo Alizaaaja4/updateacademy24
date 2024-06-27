@@ -1,4 +1,4 @@
-Hello and welcome in CSS ^_^
+Hello and welcome in **CSS** ^_^
 
 Before we have learnt about skeleton making, now we're gonna give a skin so it has some appearance, let's go!!
 
