@@ -20,7 +20,7 @@ module.exports = {
 };
 ```
 
-## 1. Configuration ⚙️
+##  Configuration ⚙️
 
 A guide to configuring and customizing your Tailwind installation. Because Tailwind is a framework for building bespoke user interfaces, it has been designed from the ground up with customization in mind.
 
@@ -61,7 +61,7 @@ module.exports = {
 ```
 For more examples, you can visit the documentation 📖[Configuration](https://tailwindcss.com/docs/configuration) 📖
 
-## 2. Content Configuration 🖼️
+## Content Configuration 🖼️
 
 The `content` section of your `tailwind.config.js` file is where you configure the paths to all of your HTML templates, JavaScript components, and any other source files that contain Tailwind class names.
 
