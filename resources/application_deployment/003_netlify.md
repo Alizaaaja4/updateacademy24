@@ -28,9 +28,14 @@ Netlify offers several key features:
 
 5. **Monitor and Scale**: Utilize the dashboard's monitoring tools to track your site's performance and scale resources as needed.
 
-## 🔗 References
+## 🎥 References
+### 🔗 [Netlify](https://www.netlify.com)
+Dive into Netlify—an advanced platform for hosting web projects with features like continuous deployment, custom domains, and serverless functions. Learn how to harness its robust capabilities to streamline your web development workflow.
+- **[Free and Easy Ways to Deploy a Website to the Internet Using Netlify](https://youtu.be/DoBmdxZxccA?si=NHwGiaWxTZdZ6yBH)**
+  
+    <a href="https://youtu.be/DoBmdxZxccA?si=NHwGiaWxTZdZ6yBH"><img src="./assets/image-1.png" alt="Introduction" width="300"></a>
 
-- Official Site: [Netlify](https://www.netlify.com)
-- Learn More:
-  - [YouTube Tutorial 1](https://youtu.be/DoBmdxZxccA?si=NHwGiaWxTZdZ6yBH)
-  - [YouTube Tutorial 2](https://youtu.be/syyv1JN1ExE?si=MKGaloRnYQ0E5iTS)
+- **[How to Deploy Static Website in Netlify ?](https://youtu.be/syyv1JN1ExE?si=WsMjQXkmM4Pxq_6h)**
+  
+    <a href="https://youtu.be/syyv1JN1ExE?si=WsMjQXkmM4Pxq_6h"><img src="./assets/image-2.png" alt="Introduction" width="300"></a>
+  
