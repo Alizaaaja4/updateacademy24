@@ -1,4 +1,4 @@
-# Core Concepts I : Tailwind CSS
+# Customization I : Tailwind CSS
 Customization in Tailwind CSS provides flexibility to adjust settings according to your project needs. This is done through the `tailwind.config.js` file, where you can define themes, extend existing properties, add new utilities, and configure responsive variants.
 
 
