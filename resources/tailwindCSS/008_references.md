@@ -6,7 +6,7 @@ For comprehensive and detailed information, refer to the [Tailwind CSS Documenta
 - **[Introduction to Tailwind CSS by Web Programming UNPAS](https://youtube.com/playlist?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h&si=IJo1CcAK66SwehhP)**
   - Learn the basics of Tailwind CSS and how to get started with it.
   
-  <a href="https://youtube.com/playlist?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h&si=IJo1CcAK66SwehhP"><img src="./assets/image.png" alt="Introduction" width="300"></a>
+    <a href="https://youtube.com/playlist?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h&si=IJo1CcAK66SwehhP"><img src="./assets/image.png" alt="Introduction" width="300"></a>
 
 - **[Tailwind CSS Full Course 2024 by 
 Anuj Bhaiya](https://youtube.com/playlist?list=PLUcsbZa0qzu0OrMJWIuhvibOPZm_IHGTl&si=0_UVxf9SiWc28Bw-)**
