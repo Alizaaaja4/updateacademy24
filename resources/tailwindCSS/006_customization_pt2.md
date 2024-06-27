@@ -1,4 +1,4 @@
-# Core Concepts II : Tailwind CSS
+# Customization II : Tailwind CSS
 
 The `theme` section of your `tailwind.config.js` file is where you define your project’s color palette, type scale, fonts, breakpoints, border radius values, and more.
 
