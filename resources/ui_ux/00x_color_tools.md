@@ -8,7 +8,7 @@ Therefore, for ease in finding the color code corresponding to the colors we see
 
 ---
 
-<div align = "center"><img src="x_logoie-x/../assets/x_logoie-x.png" alt="IE-Logo" height = "300px"></div>
+<div align = "center"><img src="x_logoie-x/../assets/x_logoie-x.png" alt="IE-Logo" height = "150px"></div>
 
 
 **Instant Eyedropper** is a free color detection tool for webmasters that will `identify` and `automatically paste` to the clipboard the HTML color code of any pixel on the screen with just a single mouse click. 
