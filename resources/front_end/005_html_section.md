@@ -89,5 +89,4 @@ we can see it as:
                     +---------------------------------------------------------------------------+
 
 the tags are : `<div>` and `<span>`
-difference between those two will be seen after we learn about CSS. that's all about HTML basic,
-So, try making a skeleton of your web with HTML and see you again at CSS ^_^
+difference between those two will be seen after we learn about CSS.
